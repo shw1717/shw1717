@@ -74,7 +74,7 @@
 | 프로젝트 | 소개 | 역할 · 핵심 내용 | 기술 |
 |---|---|---|---|
 | **[AI-Ready 데이터 품질 진단 시스템](https://github.com/shw1717/--NSY-)** | CSV 업로드 시 5대 품질 지표(완전성·유효성·일관성·이상치·중복성)를 자동 진단하고 AI 학습 적합도를 평가<br/>`팀 · 미래내일 일경험` | 데이터 엔지니어링 · 인프라 · QA<br/>품질 지표 산출 로직, UTF-8/CP949 인코딩 자동 처리 | FastAPI, Streamlit, MySQL, Pandas |
-| **[NutriPick](https://github.com/shw1717/레포이름)** | 사용자 맞춤 영양제 추천 웹사이트<br/>`개인` | 기획 · 화면 설계 · 구현 전 과정 | HTML, CSS, JavaScript |
+| **[NutriPick](https://github.com/shw1717/Nutripick)** | 사용자 맞춤 영양제 추천 웹사이트<br/>`개인` | 기획 · 화면 설계 · 구현 전 과정 | HTML, CSS, JavaScript |
 | **[안심이음](https://github.com/shw1717/ansim-ieum)** | 위험 · 안전 정보 서비스 앱<br/>`개인` | 기획부터 구현까지 단독 완성 | Kotlin |
 
 ### 🤖 AI · Computer Vision
