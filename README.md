@@ -82,7 +82,7 @@
 | 프로젝트 | 소개 | 역할 · 핵심 내용 | 기술 |
 |---|---|---|---|
 | **[NEXT FRAME](https://github.com/shw1717/nextframe_opencv)** | 실시간 자동차 번호판 인식(ALPR) 시스템<br/>`팀 · 5인` | **OCR 모듈 담당** — AllowList 튜닝, 번호판 형식 정규식 검증, 멀티프레임 다수결 투표로 오인식 보정 | YOLO, EasyOCR, OpenCV, PySide6 |
-| **[폐기물 이미지 분류](https://github.com/shw1717/레포이름)** | CNN 기반 5종 폐기물 재질 분류 (Keras · PyTorch 이중 구현)<br/>`개인` | 정확도 **81.03%**, 제곱근 클래스 가중치로 불균형(7:1) 보정, GPU 배치 증강으로 학습 시간 **최대 3.7배 단축** | PyTorch, Keras, scikit-learn |
+| **[폐기물 이미지 분류](https://github.com/shw1717/waste-image-classifier)** | CNN 기반 5종 폐기물 재질 분류 (Keras · PyTorch 이중 구현)<br/>`개인` | 정확도 **81.03%**, 제곱근 클래스 가중치로 불균형(7:1) 보정, GPU 배치 증강으로 학습 시간 **최대 3.7배 단축** | PyTorch, Keras, scikit-learn |
 | **[YOLOv8 Custom Object Detection](https://github.com/shw1717/labelme)** | LabelMe 라벨링 데이터로 펜(pen) 단일 클래스 탐지 모델 커스텀 학습<br/>`개인` | Precision **0.992** · mAP50 **0.875**, 웹캠 실시간 탐지 오인식을 confidence 조정으로 개선 | YOLOv8, LabelMe, OpenCV |
 
 ---
