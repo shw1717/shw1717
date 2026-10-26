@@ -73,7 +73,7 @@
 
 | 프로젝트 | 소개 | 역할 · 핵심 내용 | 기술 |
 |---|---|---|---|
-| **[AI-Ready 데이터 품질 진단 시스템](https://github.com/shw1717/레포이름)** | CSV 업로드 시 5대 품질 지표(완전성·유효성·일관성·이상치·중복성)를 자동 진단하고 AI 학습 적합도를 평가<br/>`팀 · 미래내일 일경험` | 데이터 엔지니어링 · 인프라 · QA<br/>품질 지표 산출 로직, UTF-8/CP949 인코딩 자동 처리 | FastAPI, Streamlit, MySQL, Pandas |
+| **[AI-Ready 데이터 품질 진단 시스템](https://github.com/shw1717/--NSY-)** | CSV 업로드 시 5대 품질 지표(완전성·유효성·일관성·이상치·중복성)를 자동 진단하고 AI 학습 적합도를 평가<br/>`팀 · 미래내일 일경험` | 데이터 엔지니어링 · 인프라 · QA<br/>품질 지표 산출 로직, UTF-8/CP949 인코딩 자동 처리 | FastAPI, Streamlit, MySQL, Pandas |
 | **[NutriPick](https://github.com/shw1717/레포이름)** | 사용자 맞춤 영양제 추천 웹사이트<br/>`개인` | 기획 · 화면 설계 · 구현 전 과정 | HTML, CSS, JavaScript |
 | **[안심이음](https://github.com/shw1717/ansim-ieum)** | 위험 · 안전 정보 서비스 앱<br/>`개인` | 기획부터 구현까지 단독 완성 | Kotlin |
 
@@ -81,7 +81,7 @@
 
 | 프로젝트 | 소개 | 역할 · 핵심 내용 | 기술 |
 |---|---|---|---|
-| **[NEXT FRAME](https://github.com/shw1717/레포이름)** | 실시간 자동차 번호판 인식(ALPR) 시스템<br/>`팀 · 5인` | **OCR 모듈 담당** — AllowList 튜닝, 번호판 형식 정규식 검증, 멀티프레임 다수결 투표로 오인식 보정 | YOLO, EasyOCR, OpenCV, PySide6 |
+| **[NEXT FRAME](https://github.com/shw1717/nextframe_opencv)** | 실시간 자동차 번호판 인식(ALPR) 시스템<br/>`팀 · 5인` | **OCR 모듈 담당** — AllowList 튜닝, 번호판 형식 정규식 검증, 멀티프레임 다수결 투표로 오인식 보정 | YOLO, EasyOCR, OpenCV, PySide6 |
 | **[폐기물 이미지 분류](https://github.com/shw1717/레포이름)** | CNN 기반 5종 폐기물 재질 분류 (Keras · PyTorch 이중 구현)<br/>`개인` | 정확도 **81.03%**, 제곱근 클래스 가중치로 불균형(7:1) 보정, GPU 배치 증강으로 학습 시간 **최대 3.7배 단축** | PyTorch, Keras, scikit-learn |
 | **[YOLOv8 Custom Object Detection](https://github.com/shw1717/labelme)** | LabelMe 라벨링 데이터로 펜(pen) 단일 클래스 탐지 모델 커스텀 학습<br/>`개인` | Precision **0.992** · mAP50 **0.875**, 웹캠 실시간 탐지 오인식을 confidence 조정으로 개선 | YOLOv8, LabelMe, OpenCV |
 
